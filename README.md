@@ -1,1 +1,1 @@
-# shiruco-log:wq
+# shiruco-log
