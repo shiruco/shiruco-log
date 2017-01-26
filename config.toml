@@ -1,13 +1,10 @@
 siteTitle = "Shiruco log"
-siteDescr = "About Front-end Articles"
+siteDescr = "I'm Front-End Developer."
 siteAuthor = "Shiruco"
 
-siteTelegramUrl = "#"
-siteTwitterUrl = "#"
-siteGithubUrl = "#"
-siteEmailUrl = "#"
-siteRssUrl = "#"
-siteVkUrl = "#"
+siteTwitterUrl = "https://twitter.com/shiruco621"
+siteGithubUrl = "https://github.com/shiruco"
+siteEmailUrl = "shiruco621@gmail.com"
 
 googleAnalyticsId = ""
 
