@@ -106,7 +106,7 @@ First I tried to make a simple 3D content sample using Three.js.
 
 URL: **https://shiruco.github.io/WebVR_Sample/three/**
 <figure>
-	<img style="height: 400px;" src="./73de3f6b-ae26-1bd6-1f65-e4d3ab838ace.gif">
+	<img src="./73de3f6b-ae26-1bd6-1f65-e4d3ab838ace.gif">
 </figure>
 
 source is **[here](https://github.com/shiruco/WebVR_Sample/blob/master/three/src/app.js)**
@@ -164,7 +164,7 @@ Here is what I completed with the above implementation.
 
 URL: **https://shiruco.github.io/WebVR_Sample/three_demo/**
 <figure>
-	<img style="height: 400px;" src="./caaac44f-ed88-859c-887f-f224e884ed10.gif">
+	<img src="./caaac44f-ed88-859c-887f-f224e884ed10.gif">
 </figure>
 
 source is **[here](https://github.com/shiruco/WebVR_Sample/blob/master/three_vr/src/app.js)**
@@ -181,7 +181,7 @@ I made a sample similarly.
 
 URL: **https://shiruco.github.io/WebVR_Sample/aframe/**
 <figure>
-	<img style="height: 400px;" src="./e25820c6-29f5-cbea-9bc9-2264a1dda139.gif">
+	<img src="./e25820c6-29f5-cbea-9bc9-2264a1dda139.gif">
 </figure>
 
 source is **[here](https://github.com/shiruco/WebVR_Sample/blob/master/aframe/index.html)**
@@ -222,7 +222,7 @@ So, here is the sample.
 
 URL: **https://shiruco.github.io/WebVR_Sample/aframe_interaction/**
 <figure>
-	<img style="height: 400px;" src="./305aa1f2-fca4-b154-1daa-f4438bbe8adc.gif">
+	<img src="./305aa1f2-fca4-b154-1daa-f4438bbe8adc.gif">
 </figure>
 
 source is **[here](https://github.com/shiruco/WebVR_Sample/blob/master/aframe_interaction/index.html)**
