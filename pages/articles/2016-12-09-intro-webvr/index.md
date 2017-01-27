@@ -64,12 +64,10 @@ We will make 3D space on the browser with WebGL, but if you implement it from sc
 In the repository of Three.js, there are convenient VR modules called VRControls and VREffect, which automatically perform 2 and 4 processing.
 
 **VRControls.js**  
-Link the position information of the VR device with the camera position in 3D space  
-https://github.com/mrdoob/three.js/blob/dev/examples/js/controls/VRControls.js
+Link the position information of the VR device with the camera position in 3D space 
 
 **VREffect.js**  
 Divide the screen into two, and calculate the difference of drawing processing for left eye and right eye for stereoscopic viewing 
-https://github.com/mrdoob/three.js/blob/dev/examples/js/effects/VREffect.js
 
 ## Typical library / framework
 
