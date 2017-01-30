@@ -190,7 +190,7 @@ What I did is add various nodes such as `<a-entity>` and `<a-plane>` to `<a-scen
 
 Let's add an interaction element to this content.
 
-### Intaraction
+### Interaction
 
 When considering interaction with VR content, the following things are candidates on the operation side.
 
